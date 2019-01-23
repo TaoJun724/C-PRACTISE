@@ -1,10 +1,7 @@
 #define  _CRT_SECURE_NO_WARRNINGS 1
-
-
 #include<math.h>
 #include<stdio.h>
 #include<stdlib.h>
-
 
 //100-200¼äµÄËØÊı
 //int  main()
